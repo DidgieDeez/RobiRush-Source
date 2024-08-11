@@ -1,0 +1,97 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "walk",
+			"fps": 20,
+			"name": "walk",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/robiCHEF",
+	"position": [
+		350,
+		570
+	],
+	"healthicon": "robi",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-170,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 2.00000000000001
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GHOST.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ghost0000" x="2" y="2" width="12" height="28"/>
+	<SubTexture name="ghost0001" x="2" y="2" width="12" height="28"/>
+	<SubTexture name="ghost0002" x="16" y="2" width="12" height="28"/>
+	<SubTexture name="ghost0003" x="16" y="2" width="12" height="28"/>
+</TextureAtlas>

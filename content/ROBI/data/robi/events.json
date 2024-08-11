@@ -1,0 +1,4171 @@
+{
+	"song": {
+		"events": [
+			[
+				11200,
+				[
+					[
+						"Play Animation",
+						"danceL",
+						"Dad"
+					],
+					[
+						"Spawn Robi",
+						"robigun",
+						""
+					],
+					[
+						"Spawn Robi",
+						"robiMARIO",
+						""
+					]
+				]
+			],
+			[
+				11600,
+				[
+					[
+						"Play Animation",
+						"danceR",
+						"Dad"
+					],
+					[
+						"Spawn Robi",
+						"robiFREDDY",
+						""
+					],
+					[
+						"Spawn Robi",
+						"robicool",
+						""
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Play Animation",
+						"danceL",
+						"Dad"
+					],
+					[
+						"Spawn Robi",
+						"robiCHEF",
+						""
+					]
+				]
+			],
+			[
+				12400,
+				[
+					[
+						"Play Animation",
+						"danceU",
+						"Dad"
+					],
+					[
+						"Spawn Robi",
+						"robiBF",
+						""
+					]
+				]
+			],
+			[
+				12800,
+				[
+					[
+						"Spawn Robi",
+						"robimagic",
+						""
+					],
+					[
+						"Spawn Robi",
+						"robiboxer",
+						""
+					]
+				]
+			],
+			[
+				12900,
+				[
+					[
+						"Change Robi",
+						"robiCHEF",
+						""
+					]
+				]
+			],
+			[
+				13300,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"-40"
+					]
+				]
+			],
+			[
+				13500,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"100"
+					]
+				]
+			],
+			[
+				13800,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"20"
+					]
+				]
+			],
+			[
+				14033.3333333333,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"20"
+					]
+				]
+			],
+			[
+				14200,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"5"
+					]
+				]
+			],
+			[
+				14237.5,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"20"
+					]
+				]
+			],
+			[
+				15400,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-300"
+					]
+				]
+			],
+			[
+				16700,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"20"
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"-5"
+					]
+				]
+			],
+			[
+				18100,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"5"
+					]
+				]
+			],
+			[
+				18200,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"-5"
+					]
+				]
+			],
+			[
+				18300,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"5"
+					]
+				]
+			],
+			[
+				18400,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"-5"
+					]
+				]
+			],
+			[
+				18500,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"5"
+					]
+				]
+			],
+			[
+				18600,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"-5"
+					]
+				]
+			],
+			[
+				18700,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"5"
+					]
+				]
+			],
+			[
+				19900,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"100"
+					]
+				]
+			],
+			[
+				20200,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"80"
+					]
+				]
+			],
+			[
+				20800,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"10"
+					]
+				]
+			],
+			[
+				21200,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-10"
+					]
+				]
+			],
+			[
+				21600,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"10"
+					]
+				]
+			],
+			[
+				22000,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-10"
+					]
+				]
+			],
+			[
+				22400,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"10"
+					]
+				]
+			],
+			[
+				22600,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"-90"
+					]
+				]
+			],
+			[
+				22800,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-10"
+					]
+				]
+			],
+			[
+				23200,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"10"
+					]
+				]
+			],
+			[
+				23600,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-10"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-10"
+					]
+				]
+			],
+			[
+				24400,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-10"
+					]
+				]
+			],
+			[
+				24600,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"60"
+					]
+				]
+			],
+			[
+				24800,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"10"
+					]
+				]
+			],
+			[
+				25000,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"-5"
+					]
+				]
+			],
+			[
+				25200,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"10"
+					]
+				]
+			],
+			[
+				25300,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"-5"
+					]
+				]
+			],
+			[
+				25400,
+				[
+					[
+						"Change Robi",
+						"robiBF",
+						""
+					]
+				]
+			],
+			[
+				25900,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"400"
+					]
+				]
+			],
+			[
+				27600,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"-80"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-100"
+					]
+				]
+			],
+			[
+				29100,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"10"
+					]
+				]
+			],
+			[
+				29700,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"10"
+					]
+				]
+			],
+			[
+				29900,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"10"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"10"
+					]
+				]
+			],
+			[
+				30200,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"10"
+					]
+				]
+			],
+			[
+				32900,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-90"
+					]
+				]
+			],
+			[
+				34200,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"-300"
+					]
+				]
+			],
+			[
+				34700,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"120"
+					]
+				]
+			],
+			[
+				35600,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"10"
+					]
+				]
+			],
+			[
+				35900,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"150"
+					]
+				]
+			],
+			[
+				36300,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"-3"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robialtalt"
+					]
+				]
+			],
+			[
+				38700,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"80"
+					]
+				]
+			],
+			[
+				40900,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				40950,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				41000,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				41050,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				41100,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				41150,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				41200,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				41250,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				41300,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				41350,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				41400,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				41450,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				41500,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				41550,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				41600,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				41650,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				41700,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				41750,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				41800,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				41850,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				41900,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				42050,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				42100,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				42300,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-50"
+					]
+				]
+			],
+			[
+				42600,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				42800,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"50"
+					]
+				]
+			],
+			[
+				43800,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-50"
+					]
+				]
+			],
+			[
+				44400,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"400"
+					]
+				]
+			],
+			[
+				46700,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"5"
+					]
+				]
+			],
+			[
+				47400,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-10"
+					]
+				]
+			],
+			[
+				48300,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-400"
+					]
+				]
+			],
+			[
+				49900,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-50"
+					]
+				]
+			],
+			[
+				50700,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-5"
+					]
+				]
+			],
+			[
+				51000,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-5"
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Change Robi",
+						"robimagic",
+						""
+					]
+				]
+			],
+			[
+				52100,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"50"
+					]
+				]
+			],
+			[
+				53600,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"40"
+					]
+				]
+			],
+			[
+				54500,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"4"
+					]
+				]
+			],
+			[
+				54900,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"10"
+					]
+				]
+			],
+			[
+				55400,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"4"
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"10"
+					]
+				]
+			],
+			[
+				56400,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"-6"
+					]
+				]
+			],
+			[
+				56800,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"10"
+					]
+				]
+			],
+			[
+				57200,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"-6"
+					]
+				]
+			],
+			[
+				58100,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robialt"
+					]
+				]
+			],
+			[
+				58400,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"-20"
+					]
+				]
+			],
+			[
+				58800,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"-20"
+					]
+				]
+			],
+			[
+				59200,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"19"
+					]
+				]
+			],
+			[
+				59600,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-20"
+					]
+				]
+			],
+			[
+				59700,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"21"
+					]
+				]
+			],
+			[
+				60200,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-5"
+					]
+				]
+			],
+			[
+				60300,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"7"
+					]
+				]
+			],
+			[
+				60400,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-5"
+					]
+				]
+			],
+			[
+				60600,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"3"
+					]
+				]
+			],
+			[
+				61100,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-7"
+					]
+				]
+			],
+			[
+				61200,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"7"
+					]
+				]
+			],
+			[
+				61500,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-3"
+					]
+				]
+			],
+			[
+				61800,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-3"
+					]
+				]
+			],
+			[
+				61900,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"-7"
+					]
+				]
+			],
+			[
+				62100,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-100"
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				62433.3333333333,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				62466.6666666667,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				62500,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				62533.3333333333,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				62566.6666666667,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				62600,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				62633.3333333333,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				62666.6666666667,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				62700,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				62733.3333333333,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				62766.6666666667,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				62800,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				62833.3333333333,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				62866.6666666667,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				62900,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				62933.3333333333,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				62966.6666666667,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				63000,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				63033.3333333333,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				63066.6666666667,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				63100,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				63133.3333333333,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				63166.6666666667,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				63200,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				63233.3333333333,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				63266.6666666667,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				63300,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				63333.3333333333,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				63366.6666666667,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				63400,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				63433.3333333333,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				63466.6666666667,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				63500,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				63533.3333333333,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				63566.6666666667,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				63600,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				63633.3333333333,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				63666.6666666667,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-1"
+					]
+				]
+			],
+			[
+				63700,
+				[
+					[
+						"Change Robi",
+						"robiboxer",
+						""
+					]
+				]
+			],
+			[
+				63766.6666666667,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"1"
+					]
+				]
+			],
+			[
+				64800,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"5"
+					]
+				]
+			],
+			[
+				65200,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"5"
+					]
+				]
+			],
+			[
+				65700,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-5"
+					]
+				]
+			],
+			[
+				65900,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"3"
+					]
+				]
+			],
+			[
+				66500,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"200"
+					]
+				]
+			],
+			[
+				66600,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"3"
+					]
+				]
+			],
+			[
+				66675,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-2"
+					]
+				]
+			],
+			[
+				66725,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"3"
+					]
+				]
+			],
+			[
+				66750,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-2"
+					]
+				]
+			],
+			[
+				67100,
+				[
+					[
+						"Change Robi",
+						"robiMARIO",
+						""
+					]
+				]
+			],
+			[
+				67700,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"400"
+					]
+				]
+			],
+			[
+				69000,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-500"
+					]
+				]
+			],
+			[
+				70100,
+				[
+					[
+						"Change Robi",
+						"robicool",
+						""
+					]
+				]
+			],
+			[
+				71000,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"-200"
+					]
+				]
+			],
+			[
+				72300,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"5"
+					]
+				]
+			],
+			[
+				72700,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"30"
+					]
+				]
+			],
+			[
+				73900,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"30"
+					]
+				]
+			],
+			[
+				74200,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"400"
+					]
+				]
+			],
+			[
+				75500,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-10"
+					]
+				]
+			],
+			[
+				76100,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-400"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robialtalt"
+					]
+				]
+			],
+			[
+				76900,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-200"
+					]
+				]
+			],
+			[
+				77400,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"200"
+					]
+				]
+			],
+			[
+				78600,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"70"
+					]
+				]
+			],
+			[
+				79400,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"-30"
+					]
+				]
+			],
+			[
+				79800,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"-8"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-200"
+					]
+				]
+			],
+			[
+				80050,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"200"
+					]
+				]
+			],
+			[
+				80400,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"80"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-50"
+					]
+				]
+			],
+			[
+				81650,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-100"
+					]
+				]
+			],
+			[
+				81900,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-99"
+					]
+				]
+			],
+			[
+				82000,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-50"
+					]
+				]
+			],
+			[
+				82200,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"-60"
+					]
+				]
+			],
+			[
+				82400,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"30"
+					]
+				]
+			],
+			[
+				82800,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"27"
+					]
+				]
+			],
+			[
+				83000,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"29"
+					]
+				]
+			],
+			[
+				83600,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"-500"
+					]
+				]
+			],
+			[
+				85300,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"4"
+					]
+				]
+			],
+			[
+				86000,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"500"
+					]
+				]
+			],
+			[
+				88900,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"490"
+					]
+				]
+			],
+			[
+				89500,
+				[
+					[
+						"Change Robi",
+						"robi",
+						""
+					]
+				]
+			],
+			[
+				91800,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"-300"
+					]
+				]
+			],
+			[
+				93200,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-50"
+					]
+				]
+			],
+			[
+				93600,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"100"
+					]
+				]
+			],
+			[
+				94000,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-13"
+					]
+				]
+			],
+			[
+				94400,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"300"
+					]
+				]
+			],
+			[
+				94700,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-13"
+					]
+				]
+			],
+			[
+				95000,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-13"
+					]
+				]
+			],
+			[
+				95100,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-13"
+					]
+				]
+			],
+			[
+				95500,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"400"
+					]
+				]
+			],
+			[
+				95900,
+				[
+					[
+						"Change Robi",
+						"robigun",
+						""
+					]
+				]
+			],
+			[
+				96900,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"-50"
+					]
+				]
+			],
+			[
+				99700,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"-700"
+					]
+				]
+			],
+			[
+				101600,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"-40"
+					]
+				]
+			],
+			[
+				101900,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"3"
+					]
+				]
+			],
+			[
+				102100,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"3"
+					]
+				]
+			],
+			[
+				102400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robi"
+					]
+				]
+			],
+			[
+				102600,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"3"
+					]
+				]
+			],
+			[
+				102700,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"3"
+					]
+				]
+			],
+			[
+				104300,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"80"
+					]
+				]
+			],
+			[
+				104900,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"-79"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-30"
+					]
+				]
+			],
+			[
+				105900,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-70"
+					]
+				]
+			],
+			[
+				106500,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"26"
+					]
+				]
+			],
+			[
+				107700,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-70"
+					]
+				]
+			],
+			[
+				108400,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-150"
+					]
+				]
+			],
+			[
+				109400,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"60"
+					]
+				]
+			],
+			[
+				110200,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"56"
+					]
+				]
+			],
+			[
+				111600,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"-23"
+					]
+				]
+			],
+			[
+				113000,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"3"
+					]
+				]
+			],
+			[
+				113500,
+				[
+					[
+						"Change Robi",
+						"all",
+						""
+					]
+				]
+			],
+			[
+				115100,
+				[
+					[
+						"Change Robi",
+						"robiFREDDY",
+						""
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robialtaltalt"
+					]
+				]
+			],
+			[
+				115600,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-50"
+					]
+				]
+			],
+			[
+				115900,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-20"
+					]
+				]
+			],
+			[
+				116400,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-300"
+					]
+				]
+			],
+			[
+				116600,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"350"
+					]
+				]
+			],
+			[
+				118300,
+				[
+					[
+						"Change Robi",
+						"robiCHEF",
+						""
+					]
+				]
+			],
+			[
+				119100,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"1"
+					]
+				]
+			],
+			[
+				119266.666666667,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"1"
+					]
+				]
+			],
+			[
+				119300,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"1"
+					]
+				]
+			],
+			[
+				119333.333333333,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"1"
+					]
+				]
+			],
+			[
+				119350,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"1"
+					]
+				]
+			],
+			[
+				119366.666666667,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"1"
+					]
+				]
+			],
+			[
+				119375,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"1"
+					]
+				]
+			],
+			[
+				119387.5,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"1"
+					]
+				]
+			],
+			[
+				119600,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-5"
+					]
+				]
+			],
+			[
+				120800,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"20"
+					]
+				]
+			],
+			[
+				121500,
+				[
+					[
+						"Change Robi",
+						"robimagic",
+						""
+					]
+				]
+			],
+			[
+				124700,
+				[
+					[
+						"Change Robi",
+						"robicool",
+						""
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"5"
+					]
+				]
+			],
+			[
+				125550,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"3"
+					]
+				]
+			],
+			[
+				125600,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"-5"
+					]
+				]
+			],
+			[
+				125900,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"-7"
+					]
+				]
+			],
+			[
+				126400,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"5"
+					]
+				]
+			],
+			[
+				126450,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"4"
+					]
+				]
+			],
+			[
+				126700,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"-1"
+					]
+				]
+			],
+			[
+				126800,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"2"
+					]
+				]
+			],
+			[
+				126900,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"-1"
+					]
+				]
+			],
+			[
+				127100,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"-1"
+					]
+				]
+			],
+			[
+				127150,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"-1"
+					]
+				]
+			],
+			[
+				127200,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"-1"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Change Robi",
+						"robi",
+						""
+					]
+				]
+			],
+			[
+				129900,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"700"
+					]
+				]
+			],
+			[
+				135700,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"8"
+					]
+				]
+			],
+			[
+				136400,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"8"
+					]
+				]
+			],
+			[
+				136600,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"8"
+					]
+				]
+			],
+			[
+				137400,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"-1000"
+					]
+				]
+			],
+			[
+				137600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robialt"
+					]
+				]
+			],
+			[
+				142600,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-200"
+					]
+				]
+			],
+			[
+				148000,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"7"
+					]
+				]
+			],
+			[
+				148400,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"7"
+					]
+				]
+			],
+			[
+				149000,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"300"
+					]
+				]
+			],
+			[
+				152000,
+				[
+					[
+						"Play Animation",
+						"shrug",
+						"dad"
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Play Animation",
+						"fire",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"confused",
+						"BF"
+					],
+					[
+						"KILL THEM",
+						"",
+						""
+					]
+				]
+			],
+			[
+				154900,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robidead"
+					]
+				]
+			],
+			[
+				171200,
+				[
+					[
+						"Play Animation",
+						"middlefinger",
+						"dad"
+					]
+				]
+			],
+			[
+				171575,
+				[
+					[
+						"Spawn Robi",
+						"robiFREDDY",
+						""
+					],
+					[
+						"Spawn Robi",
+						"robicool",
+						""
+					],
+					[
+						"Spawn Robi",
+						"robiBF",
+						""
+					]
+				]
+			],
+			[
+				171950,
+				[
+					[
+						"Spawn Robi",
+						"robigun",
+						""
+					],
+					[
+						"Spawn Robi",
+						"robiCHEF",
+						""
+					],
+					[
+						"Spawn Robi",
+						"robiMARIO",
+						""
+					]
+				]
+			],
+			[
+				172325,
+				[
+					[
+						"Spawn Robi",
+						"robimagic",
+						"normal"
+					],
+					[
+						"Spawn Robi",
+						"robiboxer",
+						"normal"
+					]
+				]
+			],
+			[
+				172746.875,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-4"
+					]
+				]
+			],
+			[
+				172770.3125,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"5"
+					]
+				]
+			],
+			[
+				172793.75,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"20"
+					]
+				]
+			],
+			[
+				172817.1875,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"2"
+					]
+				]
+			],
+			[
+				172840.625,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"-5"
+					]
+				]
+			],
+			[
+				172864.0625,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-2"
+					]
+				]
+			],
+			[
+				172887.5,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"2"
+					]
+				]
+			],
+			[
+				172910.9375,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"10"
+					]
+				]
+			],
+			[
+				172934.375,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-2"
+					]
+				]
+			],
+			[
+				172957.8125,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"2"
+					]
+				]
+			],
+			[
+				172981.25,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"5"
+					]
+				]
+			],
+			[
+				173004.6875,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-2"
+					]
+				]
+			],
+			[
+				173028.125,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"2"
+					]
+				]
+			],
+			[
+				173051.5625,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"-5"
+					]
+				]
+			],
+			[
+				173075,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-2"
+					]
+				]
+			],
+			[
+				173098.4375,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"2"
+					]
+				]
+			],
+			[
+				173121.875,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"5"
+					]
+				]
+			],
+			[
+				173145.3125,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-2"
+					]
+				]
+			],
+			[
+				173168.75,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"2"
+					]
+				]
+			],
+			[
+				173192.1875,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"-5"
+					]
+				]
+			],
+			[
+				173215.625,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-2"
+					]
+				]
+			],
+			[
+				173239.0625,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"2"
+					]
+				]
+			],
+			[
+				173262.5,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"5"
+					]
+				]
+			],
+			[
+				173285.9375,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-2"
+					]
+				]
+			],
+			[
+				173309.375,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"2"
+					]
+				]
+			],
+			[
+				173332.8125,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"-5"
+					]
+				]
+			],
+			[
+				173356.25,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-2"
+					]
+				]
+			],
+			[
+				173379.6875,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"2"
+					]
+				]
+			],
+			[
+				173403.125,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"5"
+					]
+				]
+			],
+			[
+				173426.5625,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"-20"
+					]
+				]
+			],
+			[
+				173450,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"10"
+					]
+				]
+			],
+			[
+				173473.4375,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"-5"
+					]
+				]
+			],
+			[
+				173520.3125,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"2"
+					]
+				]
+			],
+			[
+				173614.0625,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-2"
+					]
+				]
+			],
+			[
+				173660.9375,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-30"
+					]
+				]
+			],
+			[
+				173707.8125,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"2"
+					]
+				]
+			],
+			[
+				173895.3125,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-2"
+					]
+				]
+			],
+			[
+				174575,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-500"
+					]
+				]
+			],
+			[
+				175043.75,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"400"
+					]
+				]
+			],
+			[
+				176262.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robialtalt"
+					]
+				]
+			],
+			[
+				179450,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"50"
+					]
+				]
+			],
+			[
+				180200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robialtaltalt"
+					]
+				]
+			],
+			[
+				180856.25,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-50"
+					]
+				]
+			],
+			[
+				181700,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robialt"
+					]
+				]
+			],
+			[
+				181981.25,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"50"
+					]
+				]
+			],
+			[
+				183200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robi"
+					]
+				]
+			],
+			[
+				183293.75,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"200"
+					]
+				]
+			],
+			[
+				184418.75,
+				[
+					[
+						"Change Robi",
+						"robiBF",
+						""
+					]
+				]
+			],
+			[
+				184981.25,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"-200"
+					]
+				]
+			],
+			[
+				186106.25,
+				[
+					[
+						"Change Robi",
+						"robigun",
+						""
+					]
+				]
+			],
+			[
+				187606.25,
+				[
+					[
+						"Change Robi",
+						"robiboxer",
+						""
+					]
+				]
+			],
+			[
+				189200,
+				[
+					[
+						"Change Robi",
+						"robiFREDDY",
+						""
+					]
+				]
+			],
+			[
+				190418.75,
+				[
+					[
+						"Change Robi",
+						"robimagic",
+						""
+					]
+				]
+			],
+			[
+				191918.75,
+				[
+					[
+						"Change Robi",
+						"robicool",
+						""
+					]
+				]
+			],
+			[
+				193418.75,
+				[
+					[
+						"Change Robi",
+						"robiMARIO",
+						""
+					]
+				]
+			],
+			[
+				195153.125,
+				[
+					[
+						"Change Robi",
+						"robi",
+						""
+					]
+				]
+			],
+			[
+				196700,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"5"
+					]
+				]
+			],
+			[
+				196887.5,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"-5"
+					]
+				]
+			],
+			[
+				197075,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"5"
+					]
+				]
+			],
+			[
+				197262.5,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"-5"
+					]
+				]
+			],
+			[
+				197450,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"-5"
+					]
+				]
+			],
+			[
+				197637.5,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"5"
+					]
+				]
+			],
+			[
+				197825,
+				[
+					[
+						"Walker Andy",
+						"robiBF",
+						"-5"
+					]
+				]
+			],
+			[
+				198012.5,
+				[
+					[
+						"Walker Andy",
+						"robiMARIO",
+						"5"
+					]
+				]
+			],
+			[
+				198200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robialt"
+					],
+					[
+						"Walker Andy",
+						"robigun",
+						"5"
+					]
+				]
+			],
+			[
+				198387.5,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"-5"
+					]
+				]
+			],
+			[
+				198575,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"5"
+					]
+				]
+			],
+			[
+				198762.5,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"-5"
+					]
+				]
+			],
+			[
+				198950,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-5"
+					]
+				]
+			],
+			[
+				199137.5,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"5"
+					]
+				]
+			],
+			[
+				199325,
+				[
+					[
+						"Walker Andy",
+						"robigun",
+						"-5"
+					]
+				]
+			],
+			[
+				199512.5,
+				[
+					[
+						"Walker Andy",
+						"robicool",
+						"5"
+					]
+				]
+			],
+			[
+				199700,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robialtalt"
+					]
+				]
+			],
+			[
+				199793.75,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"5"
+					]
+				]
+			],
+			[
+				199981.25,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"5"
+					]
+				]
+			],
+			[
+				200012.5,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-5"
+					]
+				]
+			],
+			[
+				200168.75,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"5"
+					]
+				]
+			],
+			[
+				200262.5,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-5"
+					]
+				]
+			],
+			[
+				200543.75,
+				[
+					[
+						"Walker Andy",
+						"robiCHEF",
+						"15"
+					]
+				]
+			],
+			[
+				200918.75,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"10"
+					]
+				]
+			],
+			[
+				201200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robialtaltalt"
+					]
+				]
+			],
+			[
+				201575,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				201598.4375,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-1"
+					]
+				]
+			],
+			[
+				201621.875,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				201645.3125,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"1"
+					]
+				]
+			],
+			[
+				201668.75,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				201692.1875,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-1"
+					]
+				]
+			],
+			[
+				201715.625,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				201739.0625,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"1"
+					]
+				]
+			],
+			[
+				201762.5,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				201785.9375,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-1"
+					]
+				]
+			],
+			[
+				201809.375,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				201832.8125,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"1"
+					]
+				]
+			],
+			[
+				201856.25,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				201879.6875,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-1"
+					]
+				]
+			],
+			[
+				201903.125,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				201926.5625,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"1"
+					]
+				]
+			],
+			[
+				201950,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				201973.4375,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-1"
+					]
+				]
+			],
+			[
+				201996.875,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				202020.3125,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"1"
+					]
+				]
+			],
+			[
+				202043.75,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				202067.1875,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-1"
+					]
+				]
+			],
+			[
+				202090.625,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				202114.0625,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"1"
+					]
+				]
+			],
+			[
+				202137.5,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				202184.375,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-1"
+					]
+				]
+			],
+			[
+				202231.25,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				202301.5625,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"1"
+					]
+				]
+			],
+			[
+				202371.875,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"1"
+					]
+				]
+			],
+			[
+				202489.0625,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-1"
+					]
+				]
+			],
+			[
+				202559.375,
+				[
+					[
+						"Walker Andy",
+						"robimagic",
+						"-1"
+					]
+				]
+			],
+			[
+				202700,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robialtaltalt"
+					]
+				]
+			],
+			[
+				203356.25,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"-5"
+					]
+				]
+			],
+			[
+				204200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robialtalt"
+					]
+				]
+			],
+			[
+				204856.25,
+				[
+					[
+						"Walker Andy",
+						"robiboxer",
+						"5"
+					]
+				]
+			],
+			[
+				205700,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robialt"
+					]
+				]
+			],
+			[
+				206168.75,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"100"
+					]
+				]
+			],
+			[
+				207200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"robi"
+					]
+				]
+			],
+			[
+				207387.5,
+				[
+					[
+						"Walker Andy",
+						"robiFREDDY",
+						"-100"
+					]
+				]
+			],
+			[
+				208606.25,
+				[
+					[
+						"Change Robi",
+						"robiFREDDY",
+						""
+					]
+				]
+			],
+			[
+				210106.25,
+				[
+					[
+						"Change Robi",
+						"robicool",
+						""
+					]
+				]
+			],
+			[
+				211606.25,
+				[
+					[
+						"Change Robi",
+						"robiBF",
+						""
+					]
+				]
+			],
+			[
+				213153.125,
+				[
+					[
+						"Change Robi",
+						"robiCHEF",
+						""
+					]
+				]
+			],
+			[
+				214606.25,
+				[
+					[
+						"Change Robi",
+						"robiMARIO",
+						""
+					]
+				]
+			],
+			[
+				216106.25,
+				[
+					[
+						"Change Robi",
+						"robigun",
+						""
+					]
+				]
+			],
+			[
+				217606.25,
+				[
+					[
+						"Change Robi",
+						"robimagic",
+						""
+					]
+				]
+			],
+			[
+				219153.125,
+				[
+					[
+						"Change Robi",
+						"robiboxer",
+						""
+					]
+				]
+			],
+			[
+				220606.25,
+				[
+					[
+						"Change Robi",
+						"all",
+						""
+					]
+				]
+			],
+			[
+				220700,
+				[
+					[
+						"Play Animation",
+						"surprised",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

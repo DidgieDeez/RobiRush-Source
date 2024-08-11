@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ROBOMENU.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="robomenu0000" x="2" y="2" width="144" height="200"/>
+	<SubTexture name="robomenu0001" x="2" y="2" width="144" height="200"/>
+	<SubTexture name="robomenu0002" x="148" y="2" width="144" height="200"/>
+	<SubTexture name="robomenu0003" x="148" y="2" width="144" height="200"/>
+	<SubTexture name="robomenu0004" x="294" y="2" width="144" height="200"/>
+	<SubTexture name="robomenu0005" x="294" y="2" width="144" height="200"/>
+	<SubTexture name="robomenu0006" x="2" y="204" width="144" height="200"/>
+	<SubTexture name="robomenu0007" x="2" y="204" width="144" height="200"/>
+	<SubTexture name="robomenu0008" x="2" y="204" width="144" height="200"/>
+	<SubTexture name="robomenu0009" x="2" y="204" width="144" height="200"/>
+	<SubTexture name="robomenu0010" x="2" y="204" width="144" height="200"/>
+	<SubTexture name="robomenu0011" x="2" y="204" width="144" height="200"/>
+	<SubTexture name="robomenu0012" x="2" y="204" width="144" height="200"/>
+	<SubTexture name="robomenu0013" x="2" y="204" width="144" height="200"/>
+</TextureAtlas>

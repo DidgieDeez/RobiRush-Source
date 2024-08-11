@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="robedi.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="2" y="2" width="61" height="52"/>
+	<SubTexture name="down0001" x="2" y="2" width="61" height="52"/>
+	<SubTexture name="down0002" x="65" y="2" width="61" height="52"/>
+	<SubTexture name="down0003" x="65" y="2" width="61" height="52"/>
+	<SubTexture name="down0004" x="65" y="2" width="61" height="52"/>
+	<SubTexture name="down0005" x="65" y="2" width="61" height="52"/>
+	<SubTexture name="down0006" x="65" y="2" width="61" height="52"/>
+	<SubTexture name="down0007" x="65" y="2" width="61" height="52"/>
+	<SubTexture name="down0008" x="65" y="2" width="61" height="52"/>
+	<SubTexture name="idle0000" x="128" y="2" width="61" height="52"/>
+	<SubTexture name="left0000" x="191" y="2" width="61" height="52"/>
+	<SubTexture name="left0001" x="191" y="2" width="61" height="52"/>
+	<SubTexture name="left0002" x="2" y="56" width="61" height="52"/>
+	<SubTexture name="left0003" x="2" y="56" width="61" height="52"/>
+	<SubTexture name="left0004" x="2" y="56" width="61" height="52"/>
+	<SubTexture name="left0005" x="2" y="56" width="61" height="52"/>
+	<SubTexture name="left0006" x="2" y="56" width="61" height="52"/>
+	<SubTexture name="left0007" x="2" y="56" width="61" height="52"/>
+	<SubTexture name="left0008" x="2" y="56" width="61" height="52"/>
+	<SubTexture name="left0009" x="2" y="56" width="61" height="52"/>
+	<SubTexture name="left0010" x="2" y="56" width="61" height="52"/>
+	<SubTexture name="left0011" x="2" y="56" width="61" height="52"/>
+	<SubTexture name="left0012" x="2" y="56" width="61" height="52"/>
+	<SubTexture name="left0013" x="2" y="56" width="61" height="52"/>
+	<SubTexture name="right0000" x="65" y="56" width="61" height="52"/>
+	<SubTexture name="right0001" x="65" y="56" width="61" height="52"/>
+	<SubTexture name="right0002" x="128" y="56" width="61" height="52"/>
+	<SubTexture name="right0003" x="128" y="56" width="61" height="52"/>
+	<SubTexture name="right0004" x="128" y="56" width="61" height="52"/>
+	<SubTexture name="right0005" x="128" y="56" width="61" height="52"/>
+	<SubTexture name="right0006" x="128" y="56" width="61" height="52"/>
+	<SubTexture name="right0007" x="128" y="56" width="61" height="52"/>
+	<SubTexture name="right0008" x="128" y="56" width="61" height="52"/>
+	<SubTexture name="right0009" x="128" y="56" width="61" height="52"/>
+	<SubTexture name="right0010" x="128" y="56" width="61" height="52"/>
+	<SubTexture name="right0011" x="128" y="56" width="61" height="52"/>
+	<SubTexture name="right0012" x="128" y="56" width="61" height="52"/>
+	<SubTexture name="right0013" x="128" y="56" width="61" height="52"/>
+	<SubTexture name="up0000" x="191" y="56" width="61" height="52"/>
+	<SubTexture name="up0001" x="191" y="56" width="61" height="52"/>
+	<SubTexture name="up0002" x="2" y="110" width="61" height="52"/>
+	<SubTexture name="up0003" x="2" y="110" width="61" height="52"/>
+	<SubTexture name="up0004" x="2" y="110" width="61" height="52"/>
+	<SubTexture name="up0005" x="2" y="110" width="61" height="52"/>
+	<SubTexture name="up0006" x="2" y="110" width="61" height="52"/>
+	<SubTexture name="up0007" x="2" y="110" width="61" height="52"/>
+	<SubTexture name="up0008" x="2" y="110" width="61" height="52"/>
+	<SubTexture name="up0009" x="2" y="110" width="61" height="52"/>
+	<SubTexture name="up0010" x="2" y="110" width="61" height="52"/>
+	<SubTexture name="up0011" x="2" y="110" width="61" height="52"/>
+	<SubTexture name="up0012" x="2" y="110" width="61" height="52"/>
+	<SubTexture name="up0013" x="2" y="110" width="61" height="52"/>
+</TextureAtlas>

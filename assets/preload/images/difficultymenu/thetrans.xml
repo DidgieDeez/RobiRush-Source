@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thetrans.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="transition0000" x="2" y="2" width="1000" height="820"/>
+	<SubTexture name="transition0001" x="2" y="2" width="1000" height="820"/>
+	<SubTexture name="transition0002" x="1004" y="2" width="1000" height="820"/>
+	<SubTexture name="transition0003" x="2006" y="2" width="1000" height="820"/>
+	<SubTexture name="transition0004" x="3008" y="2" width="1000" height="820"/>
+	<SubTexture name="transition0005" x="3008" y="2" width="1000" height="820"/>
+	<SubTexture name="transition0006" x="2" y="824" width="1000" height="820"/>
+	<SubTexture name="transition0007" x="1004" y="824" width="1000" height="820"/>
+	<SubTexture name="transition0008" x="2006" y="824" width="1000" height="820"/>
+	<SubTexture name="transition0009" x="3008" y="824" width="1000" height="820"/>
+	<SubTexture name="transition0010" x="3008" y="824" width="1000" height="820"/>
+	<SubTexture name="transition0011" x="3008" y="824" width="1000" height="820"/>
+	<SubTexture name="transition0012" x="3008" y="824" width="1000" height="820"/>
+	<SubTexture name="transition0013" x="3008" y="824" width="1000" height="820"/>
+	<SubTexture name="transition0014" x="3008" y="824" width="1000" height="820"/>
+	<SubTexture name="transition0015" x="3008" y="824" width="1000" height="820"/>
+	<SubTexture name="transition0016" x="3008" y="824" width="1000" height="820"/>
+	<SubTexture name="transition0017" x="3008" y="824" width="1000" height="820"/>
+	<SubTexture name="transition0018" x="3008" y="824" width="1000" height="820"/>
+	<SubTexture name="transition0019" x="3008" y="824" width="1000" height="820"/>
+	<SubTexture name="untransition0000" x="3008" y="824" width="1000" height="820"/>
+	<SubTexture name="untransition0001" x="2" y="1646" width="1000" height="820"/>
+	<SubTexture name="untransition0002" x="1004" y="1646" width="1000" height="820"/>
+	<SubTexture name="untransition0003" x="1004" y="1646" width="1000" height="820"/>
+	<SubTexture name="untransition0004" x="2006" y="1646" width="1000" height="820"/>
+	<SubTexture name="untransition0005" x="3008" y="1646" width="1000" height="820"/>
+	<SubTexture name="untransition0006" x="2" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0007" x="2" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0008" x="1004" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0009" x="2006" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0010" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0011" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0012" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0013" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0014" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0015" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0016" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0017" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0018" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0019" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0020" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0021" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0022" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0023" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0024" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0025" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0026" x="3008" y="2468" width="1000" height="820"/>
+	<SubTexture name="untransition0027" x="3008" y="2468" width="1000" height="820"/>
+</TextureAtlas>
