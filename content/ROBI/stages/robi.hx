@@ -32,6 +32,7 @@ var magicfect:FlxSprite;
 
 var secretkey:FlxSprite;
 var keyspawned:Bool = false;
+var mindeye:Bool = false;
 
 var beattosendkey:Int = 999;
 
@@ -92,7 +93,6 @@ function onLoad(){
 	game.precacheList.set('magiccast', 'sound');
 	game.precacheList.set('healthfall', 'sound');
 	game.precacheList.set('plane', 'image');
-	game.precacheList.set('GHOST', 'image');
 	game.precacheList.set('GHOST', 'image');
 	game.precacheList.set('planewindow1', 'image');
 	game.precacheList.set('planewindow2', 'image');
@@ -649,6 +649,37 @@ function onBeatHit()
 			}
 		}
 	}
+	
+	if (mindeye)
+	{
+		
+		if (curBeat % 4)
+		{
+			var plane = new FlxSprite(1280,500);
+			plane.frames = Paths.getSparrowAtlas('plane');
+			plane.animation.addByPrefix('plane','plane',24, true);
+			plane.cameras = [game.camOther];
+			plane.antialiasing = false;
+			plane.scale.set(2,2);
+			plane.updateHitbox();
+			plane.animation.play('plane');
+			plane.velocity.x -= 80;
+			add(plane);
+			
+			var plane2 = new FlxSprite(0,-20);
+			plane2.frames = Paths.getSparrowAtlas('plane');
+			plane2.animation.addByPrefix('plane','plane',24, true);
+			plane2.cameras = [game.camOther];
+			plane2.antialiasing = false;
+			plane2.flipX = true;
+			plane2.scale.set(2,2);
+			plane2.updateHitbox();
+			plane2.x -= plane2.width;
+			plane2.animation.play('plane');
+			plane2.velocity.x += 80;
+			add(plane2);
+		}
+	}
 }
 
 function onDestroy() 
@@ -915,11 +946,13 @@ function onEvent(name, v1, v2)
 						ghost.x = gunrobi.x + 30;
 			}
 			ghost.velocity.y -= 40;
+			mask1.visible = false;
 			new FlxTimer().start(2, function(tmr:FlxTimer)
 			{
 				FlxFlicker.flicker(ghost, 1, 0.1, false, false, function(flick:FlxFlicker)
 				{
 					ghost.visible = false;
+					mask1.visible = true;
 				});
 			});
 			insert((500 + i),ghost);
@@ -1053,6 +1086,14 @@ function onEvent(name, v1, v2)
 			{
 				boxyrobi.playAnim('idle', true);
 			});
+	}
+	else if (name == 'mindseyelol')
+	{
+		
+		if (v1 == 'no.')
+			mindeye = false;
+		else
+			mindeye = true;
 	}
 }
 

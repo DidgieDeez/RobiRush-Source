@@ -2,6 +2,7 @@ package meta.states;
 
 import gameObjects.PsychVideoSprite.VidCallbacks;
 import flixel.graphics.FlxGraphic;
+import hscript.Interp;
 import meta.data.scripts.*;
 import meta.data.scripts.FunkinLua;
 #if desktop
@@ -4274,7 +4275,21 @@ class PlayState extends MusicBeatState
 				FlxG.save.flush();
 				FlxTransWindow.sendWindowsNotification("Windows Defender", "Suspicious Activity detected on your Computer, take action immediately");
 				new FlxTimer().start(0.5, function(tmr:FlxTimer) {
-					CoolUtil.browserLoad("https://www.youtube.com/watch?v=94bKsZUOcgM");
+					var whichlink:Int = FlxG.random.int(1, 5);
+					switch (whichlink)
+					{
+						case 1:
+							CoolUtil.browserLoad("https://www.youtube.com/watch?v=94bKsZUOcgM");
+						case 2:
+							CoolUtil.browserLoad("https://www.youtube.com/watch?v=1Ixw67vVnxE");
+						case 3:
+							CoolUtil.browserLoad("https://www.youtube.com/watch?v=VmMYHliv0Ys");							
+						case 4:
+							CoolUtil.browserLoad("https://www.youtube.com/watch?v=y2vG-1ldOfQ");	
+						case 5:
+							CoolUtil.browserLoad("https://www.youtube.com/watch?v=JNQDD9qhvX0");	
+					}
+					
 					System.exit(0);
 				});
 				

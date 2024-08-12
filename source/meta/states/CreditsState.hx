@@ -68,12 +68,12 @@ class CreditsState extends MusicBeatState
 		bg.antialiasing = false;
 		add(bg);
 		
-		var credtext:FlxSprite = new FlxSprite().loadGraphic(Paths.image('credits/text'));
-		credtext.scale.x = 1.65;
-		credtext.scale.y = 1.65;
+		var credtext:FlxSprite = new FlxSprite().loadGraphic(Paths.image('credits/credits'));
+		credtext.scale.x = 4;
+		credtext.scale.y = 4;
 		credtext.updateHitbox();
 		credtext.antialiasing = false;
-		credtext.y += 25;
+		credtext.y += 10;
 		credtext.screenCenter(X);
 		add(credtext);
 		
@@ -83,16 +83,23 @@ class CreditsState extends MusicBeatState
 		for (i in 0...peeps.length)
 		{
 			var guy:FlxSprite = new FlxSprite().loadGraphic(Paths.image('credits/' + peeps[i]));
-			guy.scale.x = 1.65;
-			guy.scale.y = 1.65;
+			guy.scale.x = 4.5;
+			guy.scale.y = 4.5;
 			guy.updateHitbox();
 			guy.updateFramePixels();
 			guy.antialiasing = false;
-			guy.y += 25;
+			guy.y = (FlxG.height - guy.height);
 			guy.ID = i;
-			guy.x = 285;
-			guy.x += (172 * i);
+			guy.x += (310 * i);
 			guys.add(guy);
+			var textie:FlxSprite = new FlxSprite(guy.x,0).loadGraphic(Paths.image('credits/text' + i));
+			textie.scale.x = 3;
+			textie.scale.y = 3;
+			textie.updateHitbox();
+			textie.updateFramePixels();
+			textie.antialiasing = false;
+			textie.y = (guy.y - textie.height - 5);
+			add(textie);
 		}
 		
 		transition = new FlxSprite();

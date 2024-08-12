@@ -224,7 +224,7 @@ class DifficultySubState extends MusicBeatSubstate
 	{
 		curSelected += change;
 
-		FlxG.sound.play(Paths.sound('scrollMenu'), 0.4);
+		FlxG.sound.play(Paths.sound('difficultyselect'), 0.4);
 
 		if (islocked)
 		{
